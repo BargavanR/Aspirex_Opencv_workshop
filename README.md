@@ -43,7 +43,16 @@ Alternatively, you can install the required packages directly:
 pip install matplotlib numpy pandas seaborn tensorflow opencv-python
 ```
 
-### 5. Open and Run Notebooks
+### 5. Download the Dataset
+
+#### Emotion_Detection_CNN
+Data Set Link - [https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset)
+
+1. Download the dataset from Kaggle (you may need to create a Kaggle account)
+2. Extract the dataset to your project directory
+3. Make sure the dataset path is correctly specified in your notebook
+
+### 6. Open and Run Notebooks
 1. Open any `.ipynb` file in VS Code
 2. At the top right of the notebook, click on "Select Kernel"
 3. Choose the environment: `aspirex_25_cnn_exp`
