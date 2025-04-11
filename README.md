@@ -1,0 +1,1 @@
+# Aspirex_Opencv_workshop
