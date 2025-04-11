@@ -83,11 +83,6 @@ By the end of this workshop, you will be able to:
 
 - [BargavanR](https://github.com/BargavanR)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 🧠 Enjoy experimenting with CNNs and OpenCV! 💡
 
